@@ -1,0 +1,59 @@
+body{
+    width: 100%;  
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.brandImage{
+    width: 150px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+.brnd{
+    font-weight: 900;
+    font-size: 36px !important;
+    margin-left: 20px;
+    color:#3DC5E7
+    !important;
+}
+
+.brndimg{
+    width: 150px;
+    height: 100px;
+}
+
+.brndImg{
+    width: 50px;
+    height: 50px;
+}
+
+.text{
+    margin-top: 20px;
+    font-size: 35px;
+    color:rgba(13, 24, 142, 0.709) !important;
+    margin-left: 20px;
+}
+
+.list{
+    font-size: 25px;
+    color:rgba(13, 24, 142, 0.709) !important;
+}
+
+.heading{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.sssimg{
+    width: 100%;
+    /* margin-top: 20px; */
+}
+
+.ssssimg{
+    width: 100%;
+    /* margin-top: 20px; */
+    margin-left: 30px !important;
+}
+
